@@ -1,5 +1,3 @@
-# Static MVC Blog
 
-This is a simple blogging system front end. The code is organized with MVC principles in mind.
-
-It starts small, but will be gaining new features regularly. 
+# 03-jquery-and-events
+Now let's use jQuery to add event handling to our blog's functionality!
